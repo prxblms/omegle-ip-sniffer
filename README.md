@@ -6,7 +6,7 @@ Utilize esse código para fins educacionais, para entender, aprender e desenvolv
 
 ## Informações basicas da ferramenta:
 
-- Nome: Ome Sniffer
+- Nome: OmeSniffer.py
 - Versão: BETA
 - Equipe: After Dawn Team (https://afterdawnteam.com)
 - Developer: 27prxblms
