@@ -18,4 +18,4 @@ Essa ferramenta basicamente utiliza o Wireshark para capturar os pacotes de rede
 
 É necessário ter instalado o Python, Wireshark e ter acesso aos bancos de dados do MaxMind GeoLite2, pois não vou disponibilizá-los aqui.
 
-![afterdawnbot](images/admin.png)
+![afterdawnbot](omesniffer.png)
